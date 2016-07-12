@@ -15,7 +15,8 @@ namespace deneme
             Console.WriteLine("3 arda");
             Console.WriteLine("4 akin");
             Console.WriteLine("5 akin");
-            Console.WriteLine("6 akin");
+            Console.WriteLine("6 arda");
+
 
 
 
