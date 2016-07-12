@@ -10,13 +10,13 @@ namespace deneme
         static void Main(string[] args)
         {
             Console.WriteLine("0 akin");
-            Console.WriteLine("1 arda");
+            
             Console.WriteLine("2 akin");
-            Console.WriteLine("3 arda");
+            
             Console.WriteLine("4 akin");
-            Console.WriteLine("5 akin");
+            
             Console.WriteLine("6 arda");
-            Console.WriteLine("7 akin");
+           
             Console.WriteLine("8 arda");
             
 
