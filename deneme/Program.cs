@@ -9,6 +9,16 @@ namespace deneme
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("0 akin");
+
+
+
+
+
+
+
+
+            Console.ReadLine();
         }
     }
 }
